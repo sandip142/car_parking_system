@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "167036504587",
+    "project_id": "car-parking-system-feb0d",
+    "storage_bucket": "car-parking-system-feb0d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167036504587:android:1e137360dadf2f117bd50e",
+        "android_client_info": {
+          "package_name": "com.example.car_parking_system"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcZu4rqyDR9AFleNhU9XxwvW0gKBv1Xko"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
